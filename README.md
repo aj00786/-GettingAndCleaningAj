@@ -42,7 +42,7 @@ Running the run_analysis.R script
 
 > 2) change directory into what you created in #1
 
-> 3) clone this repository : git clone https://github.com/dholtz/GettingAndCleaningData
+> 3) clone this repository : git clone https://github.com/aj00786/-GettingAndCleaningAj
 
 > 4) change directory into the GettingAndCleaningData directory
 
@@ -55,4 +55,4 @@ How the, run_analysis.R script works
 > Review the run_analysis.R script in the root of the cloned repository.
 
 > This script is heavily commented and explains step-wise what is happening.
-> DRY Principle (http://en.wikipedia.org/wiki/Don't_repeat_yourself)
+> DRY Principle 
